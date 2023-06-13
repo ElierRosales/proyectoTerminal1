@@ -22,6 +22,9 @@ python3 -m tkinter
 
 - Para Rpi.GPIO
 
-'python3 -c "import RPi.GPIO as GPIO; print(GPIO.VERSIOM)"'
+```
+python3 -c "import RPi.GPIO as GPIO; print(GPIO.VERSIOM)
+
+```
 
 Insertar imagenes
