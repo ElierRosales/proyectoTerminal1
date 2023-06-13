@@ -16,7 +16,9 @@ Se deben tener instaladas las librerias tkinter y RPi.GPIO de Python, para poder
 
 - Para tkinter
 
-'python3 -m tkinter'
+'''
+python3 -m tkinter
+'''
 
 - Para Rpi.GPIO
 
