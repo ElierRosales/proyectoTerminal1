@@ -19,12 +19,20 @@ Se deben tener instaladas las librerias tkinter y RPi.GPIO de Python, para poder
 ```
 python3 -m tkinter
 ```
-
+- En caso de no tener instalado tkinter
+```
+sudo apt-get update
+sudo apt-get install python3-tk
+```
 - Para Rpi.GPIO
 
 ```
-python3 -c "import RPi.GPIO as GPIO; print(GPIO.VERSIOM)
+python3 -c "import RPi.GPIO as GPIO; print(GPIO.VERSION)
 
 ```
-
+- En caso de no tener instalado GPIO
+```
+sudo apt-get update
+sudo apt-get install python3-rpi.gpio
+```
 Insertar imagenes
